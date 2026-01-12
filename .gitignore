@@ -200,6 +200,17 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+# Dataset and generated features
+data/raw/
+data/processed/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
 
 # Marimo
 marimo/_static/
