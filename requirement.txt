@@ -2,3 +2,4 @@ torch
 librosa
 numpy
 pandas
+matplotlib
